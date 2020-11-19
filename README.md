@@ -1,5 +1,5 @@
 # JS-CSS-Clock
-Clock funtionality using vanilla Javascript and CSS styling.
+## Clock funtionality using vanilla Javascript and CSS styling.
 
 https://znylen88.github.io/JS-CSS-Clock/
 
